@@ -18,7 +18,8 @@
 
 - [CoFI Documentation](https://cofi.readthedocs.io)
 - [Espresso Documentation](https://geo-espresso.readthedocs.io)
-- [InLab Website](https://inlab.edu.au)
+- [InLab Website](https://inlab.au)
+- [InLab Explorer](https://inlab.au/inlab-explorer/)
 
 ## Licence
 
