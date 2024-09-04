@@ -2,9 +2,6 @@
 
 
 
-
-
-
 ## Agenda:
 
 | Time | Topic | Resources |
@@ -14,8 +11,7 @@
 | 0910-1000 | Linear regression | |
 | 1000-1030 | Morning Refreshments and Trade Exhebition | |
 | 1030-1130 | Inverting for a thin plate target | |
-| 1130-1200 | What is next? | |
-
+| 1130-1200 | Questions and Answers | |
 
 
 ## Further resources
