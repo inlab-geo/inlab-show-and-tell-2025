@@ -1,1 +1,3 @@
-# inlab-workshop-2024
+# InLab workshop ASEG 2024
+
+Agenda
