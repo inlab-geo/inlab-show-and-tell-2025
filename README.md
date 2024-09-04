@@ -1,7 +1,11 @@
 # <img src="https://raw.githubusercontent.com/inlab-geo/cofi/main/docs/source/_static/latte_art_cropped.png" width="5%" style="vertical-align:bottom"/> InLab workshop 2024
 
 
-Agenda:
+
+
+
+
+## Agenda:
 
 | Time | Topic | Resources |
 | --- | --- | --- |
