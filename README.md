@@ -15,3 +15,16 @@
 | 1000-1030 | Morning Refreshments and Trade Exhebition | |
 | 1030-1130 | Inverting for a thin plate target | |
 | 1130-1200 | What is next? | |
+
+
+
+## Further resources
+
+- [CoFI Documentation](https://cofi.readthedocs.io)
+- [Espresso Documentation](https://geo-espresso.readthedocs.io)
+- [InLab Website](https://inlab.edu.au)
+
+## Licence
+
+This project is distributed under a 2-clause BSD licence. A copy of this licence is 
+provided with distributions of the software.
