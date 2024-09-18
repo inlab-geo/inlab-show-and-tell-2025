@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/inlab-geo/cofi/main/docs/source/_static/latte_art_cropped.png" width="5%" style="vertical-align:bottom"/> InLab workshop 2024
 
 This repository contains the material for the InLab workshop we held in 2024 at ASEG Discover.
-- [Description on the ASEG Discover websit](https://asegdiscover.com.au/using-cofi-to-experiment-with-geophysical-inversions/)
+- [Description on the ASEG Discover website](https://asegdiscover.com.au/using-cofi-to-experiment-with-geophysical-inversions/)
 - [Flyer on the InLab website](https://inlab.au/blog/post-7/)
 
 The workshop seeks to provide a hands-on introduction to CoFI, illustrated through interactive problem solving. 
