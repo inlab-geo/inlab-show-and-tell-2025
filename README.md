@@ -13,7 +13,7 @@ check back this repository after this workshop for reference.
 
 | Time | Topic | Resources |
 | --- | --- | --- |
-| 0830-0840 | Welcome and setup | |
+| 0830-0840 | Welcome and setup | Create a google account... |
 | 0840-0910 | Introduction to CoFI | [PDF File](https://github.com/inlab-geo/inlab-workshop-2024/blob/main/files/intro.pdf) |
 | 0910-1000 | Linear regression |  [![Open In Colab](https://img.shields.io/badge/open%20in-Colab-b5e2fa?logo=googlecolab&style=flat-square&color=ffd670&labelColor=f8f9fa)](https://colab.research.google.com/github/inlab-geo/cofi-examples/blob/main/tutorials/linear_regression/linear_regression.ipynb) [![Open In GitHub](https://img.shields.io/badge/open%20in-GitHub-171515?logo=github&labelColor=f8f9fa&style=flat-square&logoColor=171515)](https://github.com/inlab-geo/cofi-examples/blob/main/tutorials/linear_regression/linear_regression.ipynb) |
 | 1000-1030 | Morning Refreshments and Trade Exhibition | |
