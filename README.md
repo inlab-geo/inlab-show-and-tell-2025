@@ -2,6 +2,7 @@
 
 This repository contains the material for an interactive show and tell around InLab's open source geodata inference ecosystem. It seeks to provide a hands-on introduction to CoFI, illustrated through interactive problem solving.  All the materials, including slides and Python notebooks are going to be kept in this repository. So you can always check back this repository for reference.
 
+A flyer is available [here](https://github.com/inlab-geo/inlab-show-and-tell-2025/blob/main/docs/using-cofi-to-experiment-with-geophysical-inversions.pdf)
 
 ## Agenda:
 
