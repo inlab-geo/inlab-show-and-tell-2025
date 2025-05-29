@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/inlab-geo/cofi/main/docs/source/_static/latte_art_cropped.png" width="5%" style="vertical-align:bottom"/> Interactive InLab show and tell 2025
+# <img src="https://raw.githubusercontent.com/inlab-geo/cofi/main/docs/source/_static/latte_art_cropped.png" width="5%" style="vertical-align:bottom"/> Interactive InLab Show and Tell 2025
 
 This repository contains the material for an interactive show and tell around InLab's open source geodata inference ecosystem. It seeks to provide a hands-on introduction to CoFI, illustrated through interactive problem solving.  All the materials, including slides and Python notebooks are going to be kept in this repository. So you can always check back this repository for reference.
 
